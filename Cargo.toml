@@ -2,6 +2,13 @@
 name = "buf_sized"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Calculate buffer sizes needed by types"
+repository = "https://github.com/PaulmannLighting/buf_sized"
+documentation = "https://docs.rs/buf_sized"
+keywords = ["buffer", "size", "calculation"]
+categories = ["encoding"]
+
 
 [dependencies]
 heapless = { version = "0.8.0", optional = true }
