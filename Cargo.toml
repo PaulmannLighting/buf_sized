@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Calculate buffer sizes needed by types"
+authors = ["Richard Neumann <neumann@paulmann.de>"]
 repository = "https://github.com/PaulmannLighting/buf_sized"
 documentation = "https://docs.rs/buf_sized"
 keywords = ["buffer", "size", "calculation"]
