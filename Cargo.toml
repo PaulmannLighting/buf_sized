@@ -8,7 +8,7 @@ repository = "https://github.com/PaulmannLighting/buf_sized"
 documentation = "https://docs.rs/buf_sized"
 keywords = ["buffer", "size", "calculation"]
 categories = ["encoding"]
-
+exclude = [".gitignore"]
 
 [dependencies]
 heapless = { version = "0.8.0", optional = true }
