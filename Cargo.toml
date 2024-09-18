@@ -1,6 +1,6 @@
 [package]
 name = "buf_sized"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "Calculate buffer sizes needed by types"
